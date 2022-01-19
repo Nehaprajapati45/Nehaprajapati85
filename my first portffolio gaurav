@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my portfollio</title>
+</head>
+<body>
+    <td><h1><u><b><i>my self</i></b></u></h1></td>
+    
+    <P><h2> hello i am gaurav  </h2><H2>HELLO EVERYONE I AM COOL BOY I LOVE MY MOM DAD</H2></P>
+    <img src="/WhatsApp Image 2021-11-11 at 04.38.41 (1).jpeg" alt=" " width="300 " sizes="400"> 
+    <p>
+        <div>
+            <td><h1></h1></td><u><i><b><b><h1>education</h1></b></b></i></u>
+            <table>
+                <tr>
+<th  >s.no.     </th>
+<th>class     </th>
+<th>institute    </th>
+<th>years</th>
+                    
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>1<sup>st</sup->5<sup>th </sup>  </td> 
+                    <td>mcd primary school</td>
+                    <td>2015</td>
+                </tr>
+                <tr>
+<td>2</td>
+<td>6<sup>th</sup>-10<sup>th</sup></td>
+<td>Govt.Boys.Senior.Secondery.School.</td>
+<td>2020</td>
+
+</tr>
+</table>
+</div>
+<div>
+<h1><u><b><i><u>interest</u></i></b></u></h1>    
+  </ul>
+  <li>dancing</li>
+  <li>sports</li>
+  <li>reading</li>
+</UL>
+
+
+</div>
+<div>
+<h1><u><b><u><i>certificate</i></u></b></u></h1> 
+<img src="/certificate.jfif" alt=""><br>
+<img src="/dance.jfif" alt="">
+</div> 
+
+
+  </tr>      
+</body>
+<div>
+    <h1><b><u><i>skills</i></u></b></h1>
+     <ul>
+<li>computer for basic.dtp.web design.</li>
+<li>persnality devlped</li>
+<li>hardwere networking</li> 
+
+     </ul>
+</div>
+<div>
+<ul>
+<h1><u><b><i>my reels</i></b></u></h1>
+</ul>
+</div>
+ 
+
+</html> 
